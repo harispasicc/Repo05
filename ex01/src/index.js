@@ -1,8 +1,8 @@
 function main() {
   //only change code below this line
-  var myFirstName = "Haris, Emin";
-  var myLastName = "Pasic, Klinic";
-  var myHomeTown = "Sarajevo, Istanbul";
+  var myFirstName = "My name is Haris";
+  var myLastName = "My last name is Pasic";
+  var myHomeTown = "My hometown is Sarajevo";
   //only change code above this line
   return {
     myFirstName,
