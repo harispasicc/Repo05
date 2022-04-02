@@ -3,9 +3,7 @@ function main() {
     var myString = "Jello World";
     myString = "Hello World";
     //only change code above this line
-    return {
-      myString,
-    };
+    return myString;
   }
   
   console.log(main());
