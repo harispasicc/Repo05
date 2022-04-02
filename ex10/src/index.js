@@ -4,9 +4,7 @@ function main() {
     firstLetterOfLastName = " ";
     var firstLetterOfLastName = lastName[0];
     //only change code above this line
-    return {
-      firstLetterOfLastName,
-    };
+    return firstLetterOfLastName;
   }
   
   console.log(main());
