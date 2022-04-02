@@ -3,9 +3,7 @@ function main() {
     var lastName = "Bezos";
     var thirdToLastLetterOfLastName = lastName[lastName.length -3];
     //only change code above this line
-    return {
-      thirdToLastLetterOfLastName,
-    };
+    return thirdToLastLetterOfLastName;
   }
   
   console.log(main());
