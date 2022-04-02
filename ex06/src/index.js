@@ -3,9 +3,7 @@ function main() {
     var myString = "Concatenation is the process of appending ";
     myString += "one string to the end of another string.";
     //only change code above this line
-    return {
-      myString,
-    };
+    return myString;
   }
   
   console.log(main());
