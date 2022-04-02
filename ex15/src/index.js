@@ -7,9 +7,7 @@ function main() {
     var worldBlanks = "It is nice " + "dog" + ", with a fast " + "ran " + "and " + "big " + "gizzard " + "which " + "quickly " + "absorbes" + ".";
 
     //only change code above this line
-    return {
-      worldBlanks,
-    };
+    return worldBlanks;
   }
   
   console.log(main());
