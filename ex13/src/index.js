@@ -1,11 +1,9 @@
 function main() {
     //only change code below this line
     var lastName = "Tesla";
-    var lastLetterOfTheLastName = lastName[4];
+    var lastLetterOfTheLastName = lastName[lastName.length - 1];
     //only change code above this line
-    return {
-      lastLetterOfTheLastName,
-    };
+    return  lastLetterOfTheLastName;
   }
   
   console.log(main());
