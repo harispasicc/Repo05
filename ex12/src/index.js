@@ -3,9 +3,7 @@ function main() {
     var lastName = "Tesla";
     var thirdLetterOfTheLastName = lastName[2];
     //only change code above this line
-    return {
-      thirdLetterOfTheLastName,
-    };
+    return thirdLetterOfTheLastName;
   }
   
   console.log(main());
